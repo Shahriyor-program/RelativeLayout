@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lesson 11</string>
+    <string name="description_java">Курси ҳамаҷонибаи барномасозии Java барои фароҳам овардани заминаи мустаҳкам дар барномасозии Java ҳам барои шурӯъкунандагон ва ҳам хонандагони миёна пешбинӣ шудааст.</string>
+    <string name="learn_java">Омӯзишӣ Java</string>
+    <string name="teacher">Омӯзгор:</string>
+    <string name="name_teacher">Shahriyor Yunusov</string>
+    <string name="other_course">Дигар курсҳо:</string>
+    <string name="button_1">Тугмаи 1</string>
+    <string name="button_2">Тугмаи 2</string>
+    <string name="button_3">Тугмаи 3</string>
+    <string name="todo">TODO</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="flutter">Flutter</string>
+    <string name="javascript">JavaScript</string>
+    <string name="python">Python</string>
+    <string name="ruby">Ruby</string>
+    <string name="ruby2">Ruby</string>
+    <string name="ruby3">Ruby</string>
+</resources>
